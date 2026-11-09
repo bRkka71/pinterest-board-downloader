@@ -258,3 +258,9 @@ node --test tests/core.test.cjs
 ```
 
 接口调用方式参考了 [gallery-dl](https://github.com/mikf/gallery-dl) 对 Pinterest 网页 API 的分析（开源，GPLv2）。交互流程参考了 [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) 和 [Visie 收藏下载脚本](https://github.com/bRkka71/visie-shortlist-downloader)。代码为独立实现。
+
+---
+
+## 其他脚本
+
+- [Visie 收藏原图批量下载](https://github.com/bRkka71/visie-shortlist-downloader) — 同样是脚本猫用户脚本，按项目挑选 Visie 收藏里的图片，自定义命名，自动分包 ZIP 下载原图。
